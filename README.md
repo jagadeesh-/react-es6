@@ -1,1 +1,1 @@
-# react-es6
+React application with es6 features
